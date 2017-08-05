@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501938891643,
             "changeTime": 1501938891643,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501938891646,
             "changeTime": 1501938891646,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566277,
             "changeTime": 1501945566277,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501938891647,
             "changeTime": 1501938891647,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501939346565,
             "changeTime": 1501939346565,
             "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -660,53 +660,53 @@
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10773,
             "modifiedTime": 1501945566240,
             "changeTime": 1501945566240,
-            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8"
+            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1501945566252,
             "changeTime": 1501945566252,
-            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b"
+            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1501945566265,
             "changeTime": 1501945566265,
-            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f"
+            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10769,
             "modifiedTime": 1501945566276,
             "changeTime": 1501945566276,
-            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1"
+            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -716,101 +716,101 @@
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 6297,
-            "modifiedTime": 1501945566281,
-            "changeTime": 1501945566281,
-            "contentHash": "efe67e348473c44f2d5c1eae78f54b4cd285b281"
+            "size": 6295,
+            "modifiedTime": 1501975987495,
+            "changeTime": 1501975987495,
+            "contentHash": "b249b6e4d94e9cf6d12c1ae1780676a74f6d149d"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566210,
             "changeTime": 1501945566210,
-            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d"
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945565391,
             "changeTime": 1501945565391,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566109,
             "changeTime": 1501945566109,
-            "contentHash": "39f1b51dc07f7fe7bc7920ea68dd94d5cdba775b"
+            "contentHash": "39f1b51dc07f7fe7bc7920ea68dd94d5cdba775b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\webLinks",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566211,
             "changeTime": 1501945566211,
-            "contentHash": "0caec06144c909e4216d06654080dee841554608"
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566199,
             "changeTime": 1501945566199,
-            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05"
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566266,
             "changeTime": 1501945566266,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Alan Cardoso\\Documents\\SFDX_Projects\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501945566278,
             "changeTime": 1501945566278,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
